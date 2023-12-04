@@ -1,0 +1,27 @@
+<!--
+Write a HTML code, which generate the following output..
+-->
+<html>
+<body>
+    <table border="1" cellspacing="0px">
+    <tr>
+        <th>item no</th>
+        <th>item name</th>
+        <th>Rs</th>
+        <th>Paisa</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>PP</td>
+        <td>500</td>
+        <td>50</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>PJ</td>
+        <td>345</td>
+        <td>00</td>
+    </tr>
+    </table>
+</body>    
+</html>
